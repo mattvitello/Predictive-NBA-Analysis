@@ -14,6 +14,6 @@ To load tables with the JSON data run:
 
 
 ### Sources
-Majority of code is a modified version of:
+Majority of data crawler and data schema code is a modified version of:
 * https://github.com/FranGoitia/basketball_reference 
 * https://github.com/FranGoitia/basketball-analytics
